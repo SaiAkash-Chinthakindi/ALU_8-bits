@@ -392,7 +392,6 @@ by type. Makes the top-level decoder a simple 4-way MUX on op[3:2] —
 clean and scalable to more operations.
 
 ---
----
 
 ## Author
 
