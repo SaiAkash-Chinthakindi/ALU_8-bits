@@ -288,7 +288,6 @@ FAILED: 0
 | Verilog (IEEE 1364-2001) | Hardware description    |
 | Xilinx Vivado WebPACK    | Simulation              |
 | Behavioral Simulation    | Functional verification |
-| GitHub                   | Version control         |
 
 ---
 
